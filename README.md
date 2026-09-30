@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
