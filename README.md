@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
