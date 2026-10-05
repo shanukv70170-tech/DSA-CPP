@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0506-relative-ranks) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
