@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0506-relative-ranks) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
