@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0053-maximum-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0283-move-zeroes) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
