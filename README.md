@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0035-search-insert-position) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0575-distribute-candies) |
