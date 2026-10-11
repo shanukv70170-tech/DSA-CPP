@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0463-island-perimeter) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
