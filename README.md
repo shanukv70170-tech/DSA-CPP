@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0682-baseball-game) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
