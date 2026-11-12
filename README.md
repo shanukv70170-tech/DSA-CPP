@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0575-distribute-candies) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shanukv70170-tech/DSA-CPP/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
